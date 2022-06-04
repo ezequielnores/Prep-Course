@@ -248,7 +248,6 @@ function continueStatement(numero) {
       else {
         numero = numero + 2;
         array.push(numero);
-        
       }
   }
   return array;
