@@ -116,7 +116,7 @@ function multiplicarArgumentos() {
 
     let num = 1;
     for (i=0; i<arguments.length; i++){
-      num = num * arguments [i];
+      num = num * arguments[i];
     }
     return num;
 }
